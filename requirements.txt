@@ -1,0 +1,5 @@
+SpeechRecognition
+PyAudio
+beautifulsoup4
+python-vlc
+pafy
